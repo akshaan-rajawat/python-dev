@@ -25,7 +25,7 @@ scissors = '''
       (____)
 ---.__(___)
 '''
-choice=input("Choose rock, paper or scissor \t")
+choice=input("Choose rock, paper or scissors \t")
 rpclist=["rock","paper","scissors"]
 choice_index=rpclist.index(choice)
 mylist=[rock,paper,scissors]
